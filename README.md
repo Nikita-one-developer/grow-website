@@ -30,4 +30,4 @@ Swiper.js для слайдера
 
 📂 Как запустить
 Клонируй репозиторий:
-git clone https://github.com/твой_репозиторий/grow-project.git
+gh repo clone Nikita-one-developer/grow-website
