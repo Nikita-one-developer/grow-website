@@ -30,4 +30,4 @@ Swiper.js для слайдера
 
 📂
 Клонируй репозиторий:
-gh repo clone Nikita-one-developer/grow-website
+https://github.com/Nikita-one-developer/grow-website.git
